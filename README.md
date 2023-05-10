@@ -1,7 +1,6 @@
 - 👋 Olá, sou o Leandro Horoi!
-- 👀 Hoje trabalho como QA de Acessibilidade Digital
-- 🌱 Estou fazendo uma revisão de tecnologias front-end(HTML5, CSS3, JavaScript).
-- 💞️ Estudando Python e Blockchain.
+- 👀 Atuei como QA de Acessibilidade Digital em uma Startup brasileiro e hoje estou em transição de carreira para IA e Dados.
+- 💞️ Estudando Inteligência Artificial para Negócios, Linguagem Python Para Análise de Dados e Data Science.
 
 
 <!---
