@@ -2,7 +2,19 @@
 - 👀 Atuei como QA de Acessibilidade Digital em uma Startup brasileira e hoje estou em transição de carreira para IA e Dados.
 - 💞️ Estudando Inteligência Artificial para Negócios, Linguagem Python Para Análise de Dados e Data Science e Python para automação de Processos e Web.
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=leandrohoroi&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=leandrohoroi&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=leandrohoroi&show_icons=true" />
+</picture>
 
+![Snake animation](https://github.com/leandrohoroi/leandrohoroi/blob/output/github-contribution-grid-snake.svb)
 <!---
 leandrohoroi/leandrohoroi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
