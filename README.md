@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leandrohoroi&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/leandrohoroi/leandrohoroi/blob/output/github-contribution-grid-snake.svb)
+
 <!---
 leandrohoroi/leandrohoroi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
