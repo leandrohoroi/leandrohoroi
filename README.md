@@ -1,6 +1,6 @@
-- 👋 Olá, sou o Leandro Horoi!
-- 👀 Atuei como QA de Acessibilidade Digital em uma Startup brasileira e hoje estou em transição de carreira para IA e Dados.
-- 💞️ Estudando Inteligência Artificial para Negócios, Linguagem Python Para Análise de Dados e Data Science e Python para automação de Processos e Web.
+- 👀 Olá, sou o Leandro Horoi!
+- Sou um entusiasta apaixonado por economia e finanças, e enxergo a Análise e Ciência de Dados como ferramentas poderosas para compreender e explorar os desafios e oportunidades que o mercado financeiro oferece.
+
 
 <picture>
 <source
